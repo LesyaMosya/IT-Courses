@@ -31,6 +31,13 @@ val Typography = Typography(
     ),
     bodyMedium = TextStyle(
         fontFamily = robotoFamily,
+        fontWeight = FontWeight.W600,
+        fontSize = 9.sp,
+        lineHeight = 13.sp,
+        letterSpacing = 0.2.sp
+    ),
+    bodySmall = TextStyle(
+        fontFamily = robotoFamily,
         fontWeight = FontWeight.W400,
         fontSize = 9.sp,
         lineHeight = 13.sp,
