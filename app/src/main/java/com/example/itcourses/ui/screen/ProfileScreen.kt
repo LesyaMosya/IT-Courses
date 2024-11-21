@@ -28,7 +28,7 @@ fun ProfileScreen(navigator: DestinationsNavigator) {
                 .fillMaxSize()
                 .padding(innerPadding)
         ) {
-            ListOfCourses()
+            //ListOfCourses()
         }
     }
 }

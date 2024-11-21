@@ -1,4 +1,4 @@
-package com.example.itcourses.data
+package com.example.itcourses.data.model
 
 import com.google.gson.annotations.SerializedName
 import java.util.Date
@@ -11,7 +11,7 @@ data class Course(
     @SerializedName("cover")
     val imageURL: String = "",
     @SerializedName("create_date")
-    val createDate: Date,
+    val createDate: String,
     @SerializedName("price")
     val price: Int = 0,
     @SerializedName("course_type")

@@ -18,29 +18,29 @@ val Typography = Typography(
     labelLarge = TextStyle(
         fontFamily = robotoFamily,
         fontWeight = FontWeight.W400,
-        fontSize = 14.sp,
-        lineHeight = 18.sp,
+        fontSize = 16.sp,
+        lineHeight = 20.sp,
         letterSpacing = 0.5.sp
     ),
     bodyLarge = TextStyle(
         fontFamily = robotoFamily,
         fontWeight = FontWeight.W500,
-        fontSize = 11.sp,
-        lineHeight = 12.sp,
+        fontSize = 14.sp,
+        lineHeight = 18.sp,
         letterSpacing = 0.1.sp
     ),
     bodyMedium = TextStyle(
         fontFamily = robotoFamily,
         fontWeight = FontWeight.W600,
-        fontSize = 9.sp,
-        lineHeight = 13.sp,
+        fontSize = 11.sp,
+        lineHeight = 14.sp,
         letterSpacing = 0.2.sp
     ),
     bodySmall = TextStyle(
         fontFamily = robotoFamily,
         fontWeight = FontWeight.W400,
-        fontSize = 9.sp,
-        lineHeight = 13.sp,
+        fontSize = 11.sp,
+        lineHeight = 14.sp,
         letterSpacing = 0.2.sp
     )
 
